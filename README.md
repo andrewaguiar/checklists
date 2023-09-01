@@ -25,5 +25,5 @@ Things you may want to cover:
 
 # Collaborators
 
-  - Andrew
-  - Renata
+  - Andrew Silva de Aguiar
+  - Renata Cristina Yasui
